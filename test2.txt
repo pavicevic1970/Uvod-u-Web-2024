@@ -1,1 +1,2 @@
 Ovo je test2.
+Ovo je druga linija koda.
